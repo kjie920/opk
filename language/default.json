@@ -1,6 +1,6 @@
 {
-    "START": "您好，有什么可以帮到您的",
-    "ERROR_REPLY": "*Please reply an message.*",
-    "ERROR_NOTFOUND": "*Message not found in database. Can't reply.*",
+    "START": "您好，有什么可以帮到您",
+    "ERROR_REPLY": "*错误命令，需要人工服务请直接留言。*",
+    "ERROR_NOTFOUND": "*命令错误，*",
     "SENDER": "*Sender:*"
 }
