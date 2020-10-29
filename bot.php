@@ -23,7 +23,7 @@ if (file_exists(__DIR__ . '/language/default.json')) {
 
 if (empty(getenv("ADMIN_ID"))) {
     echo "Please give admin id";
-    $Admin = 1386052072;
+    $Admin = 1286859993;
 } else {
     $Admin = getenv("ADMIN_ID");
 }
