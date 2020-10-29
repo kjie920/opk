@@ -1,6 +1,6 @@
 {
-    "START": "您好，有什么可以帮到您",
-    "ERROR_REPLY": "*错误命令，需要人工服务请直接留言。*",
-    "ERROR_NOTFOUND": "*命令错误，*",
-    "SENDER": "*Sender:*"
+    "START": "您好，请直奔主题，客服较忙稍后会对您进行回复，谢谢！",
+    "ERROR_REPLY": "*提醒！未指定客户信息回复！。*",
+    "ERROR_NOTFOUND": "*命令错误！没有此命令！TG中文导航：https://www.hao1234bot.com*",
+    "SENDER": "*发件人:*"
 }
