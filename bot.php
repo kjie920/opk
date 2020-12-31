@@ -13,10 +13,10 @@ if (file_exists(__DIR__ . '/language/default.json')) {
     $LANG = json_decode(file_get_contents("./language/default.json"), true);
 } else {
     $LANG = json_decode('{
-        "START": "您好，请直奔主题，客服较忙稍后会对您进行回复，谢谢！",
-    	"HELP": "任何业务问题请直接留言，客服人员比较忙，工作时间会第一时间回复。",
+        "START": "請看清楚上邊BOT寫明交易方式，不同意的別問，同意直接聯繫，多謝。",
+    	"HELP": "請看清楚上邊BOT寫明交易方式，不同意的別問，同意直接聯繫，多謝。",
     	"ERROR_REPLY": "*提醒！未指定客户信息回复！。*",
-    	"ERROR_NOTFOUND": "*命令错误！没有此命令！TG中文导航：https://www.hao1234bot.com*",
+    	"ERROR_NOTFOUND": "*命令错误！没有此命令！*",
     	"SENDER": "*发件人:*"
     }', true);
 }
